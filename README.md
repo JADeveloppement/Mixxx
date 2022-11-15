@@ -32,7 +32,7 @@ Even with that, Pioneer didn't give enough buttons/pad with the DDJ-200 to let u
 <li><b><u>FX Choose</u></b></li>
 <img src="https://i.ibb.co/4TCVdh8/Screenshot-2022-11-15-08-49-27-06-4db7139e76ddccc89bc044bbd67bdab2.jpg" style="width: 50%; object-fit: cover">
 <br><b>FX1 / FX1  / FX1 : </b> (in first line) Browse the next effect of the first/2nd/3rd FX1 menu
-<br><b>FX2 / FX2  / FX2 : </b> (in first line) Browse the next effect of the first/2nd/3rd FX2 menu
+<br><b>FX2 / FX2  / FX2 : </b> (in 2nd line) Browse the next effect of the first/2nd/3rd FX2 menu
 
 <br><br>
 <li><b><u>Browse</u></b></li>
