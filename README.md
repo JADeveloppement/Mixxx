@@ -1,0 +1,2 @@
+# Mixxx
+Custom Mixxx Settings
